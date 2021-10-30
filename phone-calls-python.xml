@@ -1,6 +1,6 @@
 <Response>
-<Say voice="alice">Hello Now adding you to the conference call!</Say>
+<Say voice="alice">Hello Now adding you to the conference call</Say>
 <Dial record="true">
-<Conference>Full Stack Python</Conference>
+<Conference>Board meeting</Conference>
 </Dial>
 </Response>
