@@ -1,5 +1,5 @@
 <Response>
-    <Say voice="women">I will pause 30 seconds starting now!</Say>
+    <Say voice="woman">I will pause 30 seconds starting now!</Say>
     <Pause length="30"> </Pause>
     <Say>I just paused 10 seconds</Say>
 </Response>
