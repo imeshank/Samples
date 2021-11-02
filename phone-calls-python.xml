@@ -3,4 +3,5 @@
 <Dial record="true">
 <Conference>Board meeting</Conference>
 </Dial>
+<Pause length="60"/>
 </Response>
