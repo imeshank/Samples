@@ -1,7 +1,4 @@
 <Response>
 <Say voice="alice">Hello Now adding you to the conference call</Say>
-<Dial record="true">
-<Conference>Board meeting</Conference>
 <Pause length="60"/>
-</Dial>
 </Response>
