@@ -1,6 +1,8 @@
 <Response>
+<Gather>
 <Say> I will pause starting now!</Say>
   <Pause length="180"/>
 <Say voice="alice">Now adding you to the conference call</Say>
   <Pause length="60"/>
+</Gather>
 </Response>
