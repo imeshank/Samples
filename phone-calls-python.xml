@@ -1,4 +1,5 @@
 <Response>
     <Say>I will pause 30 seconds starting now!</Say>
     <Pause length="30"/>
+    <Redirect/>
 </Response>
