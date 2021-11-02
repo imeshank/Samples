@@ -1,4 +1,6 @@
 <Response>
-<Say voice="alice">Hello Now adding you to the conference call</Say>
+<Say> I will pause 10 seconds starting now!</Say>
+<Pause length="60"/>
+<Say voice="alice">Now adding you to the conference call</Say>
 <Pause length="60"/>
 </Response>
